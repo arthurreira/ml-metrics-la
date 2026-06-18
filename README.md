@@ -140,7 +140,7 @@ export interface ClassificationInputData {
 ## Running locally
 
 ```bash
-git clone https://github.com/your-username/MetricsLab
+git clone https://github.com/arthurreira/MetricsLab
 cd MetricsLab
 npm install
 npm run dev
