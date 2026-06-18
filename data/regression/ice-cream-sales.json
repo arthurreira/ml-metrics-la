@@ -1,0 +1,28 @@
+{
+  "name": "Temperature vs ice cream sales",
+  "type": "regression",
+  "description": "Predicting daily ice cream units sold based on temperature",
+  "columns": ["y_true", "y_pred"],
+  "rows": [
+    [30, 28],
+    [45, 48],
+    [60, 58],
+    [80, 85],
+    [120, 115],
+    [150, 155],
+    [90, 88],
+    [200, 195],
+    [170, 165],
+    [110, 108],
+    [75, 78],
+    [95, 92],
+    [140, 138],
+    [160, 158],
+    [50, 52],
+    [65, 63],
+    [180, 175],
+    [190, 192],
+    [100, 98],
+    [130, 135]
+  ]
+}

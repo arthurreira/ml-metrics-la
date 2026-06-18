@@ -1,0 +1,28 @@
+{
+  "name": "Hours studied vs exam score",
+  "type": "regression",
+  "description": "Predicting student exam scores based on hours studied",
+  "columns": ["y_true", "y_pred"],
+  "rows": [
+    [55, 53],
+    [72, 70],
+    [88, 85],
+    [61, 64],
+    [90, 87],
+    [45, 48],
+    [77, 74],
+    [69, 71],
+    [83, 80],
+    [58, 60],
+    [95, 92],
+    [66, 63],
+    [73, 75],
+    [81, 79],
+    [49, 52],
+    [92, 89],
+    [67, 69],
+    [76, 73],
+    [85, 88],
+    [60, 57]
+  ]
+}

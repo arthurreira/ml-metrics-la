@@ -1,0 +1,28 @@
+{
+  "name": "Customer segments",
+  "type": "clustering",
+  "description": "Grouping customers by spending habits into 3 clusters",
+  "columns": ["y_true", "y_pred"],
+  "rows": [
+    [0, 0],
+    [1, 1],
+    [2, 2],
+    [0, 1],
+    [1, 2],
+    [2, 1],
+    [0, 0],
+    [1, 1],
+    [2, 0],
+    [0, 2],
+    [1, 1],
+    [2, 2],
+    [0, 1],
+    [1, 0],
+    [2, 2],
+    [0, 0],
+    [1, 2],
+    [2, 1],
+    [0, 0],
+    [1, 1]
+  ]
+}
